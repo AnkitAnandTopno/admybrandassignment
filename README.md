@@ -12,6 +12,7 @@ Install the dependencies and devDependencies and start the server.
 npm install
 npm start
 ```
+Scan OR code from the browser development console using Expo Go app in your Android/IOS phones to run the app.
 
 ## Usage
 
